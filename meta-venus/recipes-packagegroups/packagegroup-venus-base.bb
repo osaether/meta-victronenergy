@@ -59,6 +59,7 @@ RDEPENDS_${PN} += "\
 	localedef \
 	logo \
 	nano \
+	netcat \
 	ncurses-tools \
 	openssh \
 	openssh-sftp-server \
