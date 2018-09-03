@@ -86,6 +86,7 @@ RDEPENDS_${PN} += "\
 	udev-extraconf \
 	venus-feed-configs \
 	venus-version \
+	venus-webapp \
 	watchdog \
 	websockify-c \
 	zip \
